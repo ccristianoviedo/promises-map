@@ -1,0 +1,12 @@
+.itemIndividual {
+    width: 200px;
+    height: 450px;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-bottom: 80px;
+    border: rgba(128, 128, 128, 0.363) solid ;
+}
+img {
+    width: 155px;
+    height: 290px;
+}
